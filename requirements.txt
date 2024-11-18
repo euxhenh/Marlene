@@ -1,0 +1,10 @@
+numpy
+pytorch
+scipy
+tqdm
+wandb
+scikit-learn
+pandas
+anndata
+scanpy
+gseapy
