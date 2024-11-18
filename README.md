@@ -1,5 +1,7 @@
 ## Recovering Time-Varying Networks From Single-Cell Data
 
+This is the code for Marlene, presented in the paper https://arxiv.org/abs/2410.01853.
+
 Config files used for training can be found under `configs`
 
 Download the data from following instructions in the respective papers
