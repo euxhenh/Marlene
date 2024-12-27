@@ -28,7 +28,7 @@ setup(
     package_dir={'': '.'},
     version="0.0.1",
     cmdclass=cmdclass,
-    # author="anonymous",
+    author="Euxhen Hasanaj",
     # author_email="anon@email",
     description=(""),
     long_description=("Same as above."),
