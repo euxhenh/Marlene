@@ -1,6 +1,6 @@
 ## Recovering Time-Varying Networks From Single-Cell Data
 
-This is the code for Marlene, presented in the paper https://arxiv.org/abs/2410.01853.
+This is the code for Marlene, accepted at ISMB 2025 https://academic.oup.com/bioinformatics/article/41/Supplement_1/i628/8199402.
 
 Config files used for training can be found under `configs`
 
