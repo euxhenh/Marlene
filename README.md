@@ -1,10 +1,10 @@
 ## Recovering Time-Varying Networks From Single-Cell Data
 
-This is the code for Marlene, accepted at ISMB 2025 https://academic.oup.com/bioinformatics/article/41/Supplement_1/i628/8199402.
+This is the code for Marlene, presented at ISMB 2025 https://academic.oup.com/bioinformatics/article/41/Supplement_1/i628/8199402.
 
 Config files used for training can be found under `configs`
 
-Download the data from following instructions in the respective papers
+Download the data following the instructions in the respective papers
 https://www.nature.com/articles/s41591-023-02327-2,
 https://www.nature.com/articles/s41590-023-01608-9 and https://www.nature.com/articles/s41467-020-17358-3. Convert the expression
 data to AnnData using the `anndata` package and place the files under the
